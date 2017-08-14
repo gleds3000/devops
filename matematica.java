@@ -20,5 +20,13 @@ public class Matematica
   public static int divisao() {
     return (a / b);
   }
- 
+ public static int teste() {
+   if (a == 0){
+     a = 1;
+   }
+   if (b == 0){
+     b = 1
+   }
+    return ((a / b))/2;
+  }
 } // fim do corpo da classe "Matematica"
