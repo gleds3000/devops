@@ -1,0 +1,6 @@
+[0824/230501.166:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acesso negado. (0x5)
+[0824/230501.176:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0824/230501.182:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acesso negado. (0x5)
+[0824/230750.329:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acesso negado. (0x5)
+[0824/230750.334:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0824/230750.336:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Acesso negado. (0x5)
