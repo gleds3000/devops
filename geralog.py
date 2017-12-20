@@ -4,4 +4,5 @@ def geralog():
     logfile     = '%s-backup-full.txt' % date       # Cria o arquivo de Log                                
     pathlog     = '/var/log/backup/backup-full/%s' % logfile    # Arquivo de log                           
                                                                                                            
-    return pathlog              
+    return pathlog 
+#Construir uma para Windows. 
